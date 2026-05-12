@@ -1,9 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Biology Robotics Project</title>
 
 <style>
@@ -79,7 +76,7 @@ footer {
 <header>
 <center>
 <h1>Biology and Robotics Healthcare Project</h1>
-<p><b>Universidad Autónoma de Nuevo León - CIDEb</b></p>
+<p><b>Universidad Autónoma de Nuevo León - CIDEB</b></p>
 </center>
 </header>
 
@@ -289,8 +286,8 @@ Our robotic solution demonstrated how technology and artificial intelligence can
 <section id="team">
 <center>
 <h2>Team</h2>
-<img src="https://images.unsplash.com/photo-1522075469751-3a6694fb2f61" alt="Team 1">
-<img src="https://images.unsplash.com/photo-1519389950473-47ba0277781c" alt="Team 2">
+<img src="https://https://www.cituro.com/blog/teambuilding-tipps-fuer-ein-starkes-und-erfolgreiches-team" alt="Team 1">
+<img src="https://www.ericshaver.com/what-is-a-team-team-definitions/" alt="Team 2">
 </center>
 
 <div class="team-box">
