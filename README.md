@@ -72,8 +72,8 @@ Learn more about the Respiratory System
 <section id="problems">
 <center>
 <h2>Problems</h2>
-<img src="https://images.unsplash.com/photo-1581595219315-a187dd40c322" alt="Problem 1">
-<img src="https://images.unsplash.com/photo-1581093458791-9f3c3900df4b" alt="Problem 2">
+<img src="https://images.unsplash.com/photo-1581595219315-a187dd40c322" alt="Problem 1"></img>
+<img src="https://images.unsplash.com/photo-1581093458791-9f3c3900df4b" alt="Problem 2"></img>
 </center>
 
 <p>
