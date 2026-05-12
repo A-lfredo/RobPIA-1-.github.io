@@ -1,9 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<title>Biology Robotics Project</title>
-
-</style>
 </head>
 <body>
 
