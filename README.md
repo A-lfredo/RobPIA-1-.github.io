@@ -222,7 +222,7 @@ Our robotic solution demonstrated how technology and artificial intelligence can
 </center>
 
 <div class="team-box">
-<p><b>School:</b> Universidad Autónoma de Nuevo León - CIDEb</p>
+<p><b>School:</b> Universidad Autónoma de Nuevo León - CIDEB</p>
 <p><b>Group:</b> 215</p>
 <p><b>Team:</b> Team 2</p>
 
