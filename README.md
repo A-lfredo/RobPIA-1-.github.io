@@ -159,7 +159,7 @@ The robot begins scanning → identifies biological changes → compares data wi
 
 <div class="video-container">
 <h3>Robot Video</h3>
-  <a href="https://www.youtube.com/embed/2ePf9rue1Ao"> Robot Video</a>
+  <a href="https://youtube.com/shorts/3RZ87pp2qWY?si=vY9NIXfZXCBNGGJg"> Robot Video</a>
 </div>
 </section>
 
@@ -180,9 +180,9 @@ We observed onion epidermis and protozoan cultures using microscopes and analyze
 
 <div class="video-container">
 <h3>Track and RC Robot Videos</h3>
-<a href="https://www.youtube.com/embed/DzVBCM_HQNk"> RC Robot</a>
+<a href="https://youtu.be/DsGALKnliZE?si=MpWKqE7ykWMmxHE7"> RC Robot</a>
 <br><br>
-<a href="https://www.youtube.com/embed/wlkCQXHEgjA"> Track Video</a>
+<a href="https://youtu.be/csqMO7WotPw?si=_hwEIiDr_LGESJLC"> Track Video</a>
 </div>
 </section>
 
