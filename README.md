@@ -73,7 +73,7 @@ Learn more about the Respiratory System
 <center>
 <h2>Problems</h2>
 <img src="https://img.rtve.es/n/1843720?w=1600" alt="Problem 1">
-<img src="" alt="Problem 2">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRByYcBMRv9EmUSvVfBbgDc0OgLEj64xwyQHw&s" alt="Problem 2">
 </center>
 
 <p>
@@ -126,7 +126,7 @@ The robot could also assist with respiratory monitoring by detecting changes in 
 <section id="programming">
 <center>
 <h2>Programming</h2>
-<img src="https://images.unsplash.com/photo-1515879218367-8466d910aaa4" alt="Programming 1">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSxiWgb1SVIccZ5J-l9pDx7PQSBIOSn_6mOg&s" alt="Programming 1">
 <img src="https://images.unsplash.com/photo-1555949963-aa79dcee981c" alt="Programming 2">
 </center>
 
@@ -189,8 +189,8 @@ We observed onion epidermis and protozoan cultures using microscopes and analyze
 <section id="conclusion">
 <center>
 <h2>Conclusion</h2>
-<img src="https://images.unsplash.com/photo-1521737604893-d14cc237f11d" alt="Conclusion 1">
-<img src="https://images.unsplash.com/photo-1522202222206-b75050619598" alt="Conclusion 2">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDnYYqgWrxaSTg__CAu1beohsynQ59BlSmfw&s" alt="Conclusion 1">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk-OUPGhrNcndDXnb8ye-2q8XhWNMrrfbH_w&s" alt="Conclusion 2">
 </center>
 
 <p>
@@ -218,7 +218,7 @@ Our robotic solution demonstrated how technology and artificial intelligence can
 <center>
 <h2>Team</h2>
 <img src="https://www.ericshaver.com/wp-content/uploads/2020/05/Team.jpg" alt="Team 1">
-<img src="https://www.ericshaver.com/what-is-a-team-team-definitions/" alt="Team 2">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvaTgHfZIBI8GMu9L47Tigh43ZNmxyQqPZoA&s" alt="Team 2">
 </center>
 
 <div class="team-box">
